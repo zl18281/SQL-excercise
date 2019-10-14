@@ -1,0 +1,5 @@
+Student:       97610
+Census:        80
+Elections:     76
+Modelling:     67
+Normalisation: 70
